@@ -1,0 +1,19 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 29c064349ed13f240ae1fd968d5dc2c7, type: 3}
+  m_Name: FireBallProjectile
+  m_EditorClassIdentifier: 
+  name: 
+  cooldownTime: 0.5
+  fireBall: {fileID: 283538348305088904, guid: fe0ea5f557248d34bb88a3244da8a561, type: 3}
+  offSetY: 0.589
+  offSetZ: 0.5

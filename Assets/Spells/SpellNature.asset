@@ -1,0 +1,25 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: be9de894c89d0b145934f9231d7dd18d, type: 3}
+  m_Name: SpellNature
+  m_EditorClassIdentifier: 
+  name: SpellNature
+  cooldownTime: 2
+  activeTime: 0.5
+  radius: 10
+  enemyLayers:
+    serializedVersion: 2
+    m_Bits: 64
+  deathDelay: 350
+  effect: {fileID: 7970835593044432741, guid: 9f3d6422b3e69574f842d98b34931ffd, type: 3}
+  range: 5
+  upRange: 3
